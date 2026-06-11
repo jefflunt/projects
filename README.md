@@ -31,6 +31,7 @@ games:
 - taipan / plunder and profit
 
 tools:
+- stat: the fast real-time stat aggregator
 - remark: promote this
 - markdown-viewer: promote this
 - money: do I still want to do anything with this?
