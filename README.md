@@ -8,6 +8,9 @@
 AI orchestration
 - build: the orchestrator itself
     - integrate `agent`
+    - extract current hardcoded workflow into a yaml workflow, then make
+      workflows configurable (a planning workflow, a simple building workflow, a
+      complex building workflow)
     - start supporting a `planning` state where I can iterate on a design until
       I'm ready to hand it off for implementation
         - agent: cli interface to multiple cli agent harnesses (gemini, opencode,
