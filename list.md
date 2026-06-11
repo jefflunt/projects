@@ -3,7 +3,7 @@
     - `agent_docs/`
     - `scripts/` folder (built, test, install, build-test-install, curl-install,
       release)
-    - .github actions for build + release
+    - `.github/workflows` actions for build + release (see `breakdown`)
 
 AI orchestration
 - build: the orchestrator itself
