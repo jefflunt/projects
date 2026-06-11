@@ -1,3 +1,10 @@
+- `projects` (the repo, and the general framework)
+    - `build` (`.build/` folder)
+    - `agent_docs/`
+    - `scripts/` folder (built, test, install, build-test-install, curl-install,
+      release)
+    - .github actions for build + release
+
 AI orchestration
 - build: the orchestrator itself
     - integrate `agent`
