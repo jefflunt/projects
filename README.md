@@ -7,7 +7,6 @@
 
 AI orchestration
 - build: the orchestrator itself
-    - integrate `agent`
     - extract current hardcoded workflow into a yaml workflow, then make
       workflows configurable (a planning workflow, a simple building workflow, a
       complex building workflow)
