@@ -32,6 +32,7 @@ games:
   - review where we're at
   - publish, start creating content for it
 - taipan / plunder and profit
+- rts: an RTS making tool
 
 tools:
 - stat: the fast real-time stat aggregator
