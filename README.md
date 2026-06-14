@@ -32,6 +32,7 @@ games:
   - publish, start creating content for it
 - taipan / plunder and profit
 - rts: an RTS making tool
+- sprinter: a 2d, top-down racing game
 
 tools:
 - stat: the fast real-time stat aggregator
