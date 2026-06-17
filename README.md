@@ -24,12 +24,15 @@ AI orchestration
         - attachments
 
 games:
+- king's claim: browser-based arcade RTS
 - infinimaze: infinite online mazes
   - review where we're at
   - publish, start creating content for it
 - keys: 10-key competitive game
   - review where we're at
   - publish, start creating content for it
+- apex-asphault: racing gem
+- asteroid-like - should evole this into something unique
 - taipan / plunder and profit
 - rts: an RTS making tool
 - sprinter: a 2d, top-down racing game
